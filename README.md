@@ -35,5 +35,3 @@ Tema yapılırken kullanılmış olan eklentiler:
 * [Babel](https://babeljs.io)
 * [Browserify](http://browserify.org)
 * [normalize.css](https://necolas.github.io/normalize.css)
-
-WP REST Theme [Erdem Arslan](http://erdemarslan.co) tarafından serbest kullanım amacıyla oluşturulmuştur.
